@@ -27,7 +27,7 @@ O [Figma do projeto está aqui](https://www.figma.com/file/mC6DmuXPGWHYkMWOQD3kh
 
 ## 🛠️ Acessar o projeto
 
-O [link para acessar o projeto está disponivel aqui]().
+O [link para acessar o projeto está disponivel aqui](https://jhonata-anderson.github.io/culturama/).
 
 ## 📚 Informações adicionais
 
